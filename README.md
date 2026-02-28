@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,FF1493,00FFFF&height=200&section=header&text=SAHU%20ISLAMIC%20BOT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,FF1493,00FFFF&height=200&section=header&text=YAKUB%20ISLAMIC%20BOT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Assalamualaikum+Everyone!;Welcome+To+YAKUB+ISLAMIC+BOT+Fork!;Next-Gen+Islamic+Messenger+Bot;Faith+%2B+Knowledge+%2B+Technology" />
