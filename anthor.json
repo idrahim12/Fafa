@@ -15,7 +15,7 @@
     "removeSt": false,
     "NOTIFICATION": true,
     "notiGroup": true,
-    "BOTNAME": "𝗦𝗔𝗛𝗨 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗕𝗢𝗧",
+    "BOTNAME": "𝐒𝐈𝐍𝐇𝐀 𝐈𝐒𝐋𝐀𝐌𝐈𝐂 𝐁𝐎𝐓 😘😘",
     "PREFIX": "/",
     "reactUnsend": [
         "😡",
@@ -24,28 +24,28 @@
         "😠"
     ],
     "ADMINBOT": [
-        "100044713412032",
-        "100047211079054",
-        "61587787857742"
+        "61574007381785",
+        "61574007381785",
+        "61574007381785"
     ],
     "NDH": [
         "100044713412032"
     ],
-    "AuthorName": "SHAHADAT SAHU",
-    "AuthorNickName": "সাহু",
-    "AuthorBotName": "SAHU ISLAMIC BOT",
+    "AuthorName": "𝐘𝐀𝐊𝐔𝐁 𝐇𝐎𝐒𝐒𝐄𝐍",
+    "AuthorNickName": "ইয়াকুব",
+    "AuthorBotName": "𝐒𝐈𝐍𝐇𝐀 𝐈𝐒𝐋𝐀𝐌𝐈𝐂 𝐁𝐎𝐓 😘😘",
     "AuthorGender": "Male",
     "AuthorAge": "18+",
     "AuthorReligion": "Islam",
     "AuthorRelationalStatus": "Single",
-    "AuthorLocation": "Bangladesh",
-    "AuthorPhoto": "https://i.imgur.com/Zhs0omh.jpeg",
-    "AuthorImgur": "https://i.imgur.com/zqsuJnX.jpeg",
+    "AuthorLocation": "𝐋𝐚𝐱𝐦𝐞𝐩𝐮𝐫",
+    "AuthorPhoto": "https://i.postimg.cc/2j2BhXFR/20250802-154343.jpg",
+    "AuthorImgur": "https://i.postimg.cc/SsqqjZzY/20260218-103844.jpg",
     "AuthorGithub": "https://github.com/shahadat-sahu",
-    "AuthorFacebook": "https://fb.com/100044713412032",
-    "AuthorMessenger": "https://m.me/100044713412032",
-    "AuthorWhatsApp": "https://wa.me/8801882333052",
-    "AuthorTelegram": "https://t.me/yoursahu",
+    "AuthorFacebook": "https://fb.com/61574007381785",
+    "AuthorMessenger": "https://m.me/61574007381785",
+    "AuthorWhatsApp": "https://wa.me/+8801609833375",
+    "AuthorTelegram": "https://t.me/hfgd63",
     "APPSTATEPATH": "cokiState.json",
     "FCAOption": {
         "forceLogin": true,
