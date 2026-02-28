@@ -4,12 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,FF1493,00FFFF&height=200&section=header&text=SAHU%20ISLAMIC%20BOT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Assalamualaikum+Everyone!;Welcome+To+SAHU+ISLAMIC+BOT+Fork!;Next-Gen+Islamic+Messenger+Bot;Faith+%2B+Knowledge+%2B+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Assalamualaikum+Everyone!;Welcome+To+YAKUB+ISLAMIC+BOT+Fork!;Next-Gen+Islamic+Messenger+Bot;Faith+%2B+Knowledge+%2B+Technology" />
   
   <br><br>
   
   <!-- Hero Image with Glow -->
-  <img src="https://i.imgur.com/S8O7rB3.jpeg" width="300" style="border-radius: 20px; box-shadow: 0 0 30px #A020F0;" />
+  <img src="https://i.postimg.cc/2j2BhXFR/20250802-154343.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 30px #A020F0;" />
   
 </div>
 
@@ -150,7 +150,7 @@ This makes the setup extremely easy, especially for beginners.
 
 <!-- Facebook -->
 <p>
-<a href="https://facebook.com/100044713412032">
+<a href="https://facebook.com/61574007381785">
   <img 
     src="https://img.shields.io/badge/Facebook-Click%20Here-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
     height="45px">
@@ -159,7 +159,7 @@ This makes the setup extremely easy, especially for beginners.
 
 <!-- Messenger -->
 <p>
-<a href="https://m.me/100044713412032">
+<a href="https://m.me/61574007381785">
   <img 
     src="https://img.shields.io/badge/Messenger-Click%20Here-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" 
     height="45px">
@@ -175,12 +175,12 @@ Please do not disturb the admin unless you have a special need. Thank you!
 <p align="center">
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801609833375 ?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45px">
   </a>
 
   <!-- Messenger -->
-  <a href="https://m.me/100044713412032">
+  <a href="https://m.me/61574007381785">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" height="45px">
   </a>
 
@@ -191,7 +191,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 </p>
 
-💖 Thank you for choosing **SAHU ISLAMIC BOT** — your support helps us grow and build better Islamic digital tools.  
+💖 Thank you for choosing **YAKUB ISLAMIC BOT** — your support helps us grow and build better Islamic digital tools.  
 🗓️ **Release Date:** `28/02/2026 at 8:00 PM`  
 ⭐ Don't forget to give a **star** after forking!
 
@@ -199,10 +199,10 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://github.com/shahadat-sahu">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="48px">
   </a>
-  <a href="https://wa.me/+8801882333052">
+  <a href="https://wa.me/+8801609833375">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" height="48px">
   </a>
-  <a href="https://facebook.com/100044713412032">
+  <a href="https://facebook.com/61574007381785">
     <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" height="48px">
   </a>
   <a href="https://t.me/+a-psypdCxDE5NWU1">
