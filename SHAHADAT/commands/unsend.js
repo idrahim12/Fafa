@@ -5,19 +5,27 @@ module.exports.config = {
   name: "unsend",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "SA HU", //please don't change credit
   description: "Unsend bot's sent message",
   commandCategory: "system",
   usages: "uns / del / delete / remove / u",
   cooldowns: 0
 };
 
+const allowedUID = "61574007381785";
+
 const lang = {
-  returnCant: "প্রিয় ভাই/বোন, আমি শুধু আমার পাঠানো মেসেজই মুছতে পারি। অন্যের মেসেজ মুছা আমার জন্য বৈধ নয়!",
-  missingReply: "কোন মেসেজটি মুছতে চান? অনুগ্রহ করে বটের মেসেজে রিপ্লাই করুন....."
+  returnCant: "কি unsent করতে হবে? reply করে বলো 🫰",
+  missingReply: "কি unsent করমু? reply করে বলো 🫰",
+  noPermission: "এই কমান্ড টা শুধু ইয়াকুব স্যার ব্যবহার করতে পারবে, তুমি ইয়াকুব স্যারের কাছে পারমিশন নেও"
 };
 
 module.exports.run = async function ({ api, event }) {
+
+  if (event.senderID !== allowedUID) {
+    return api.sendMessage(lang.noPermission, event.threadID, event.messageID);
+  }
+
   if (event.type !== "message_reply")
     return api.sendMessage(lang.missingReply, event.threadID, event.messageID);
 
@@ -48,6 +56,11 @@ module.exports.handleEvent = async function ({ api, event }) {
     );
 
     if (isTriggered) {
+
+      if (event.senderID !== allowedUID) {
+        return api.sendMessage(lang.noPermission, event.threadID, event.messageID);
+      }
+
       if (event.type !== "message_reply")
         return api.sendMessage(lang.missingReply, event.threadID, event.messageID);
 
@@ -57,6 +70,6 @@ module.exports.handleEvent = async function ({ api, event }) {
       return api.unsendMessage(event.messageReply.messageID);
     }
   } catch (err) {
-    console.error("Error in unsend command:", err);
+    console.error("tor kotha suntam na 🤣", err);
   }
 };
